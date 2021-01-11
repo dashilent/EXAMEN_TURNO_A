@@ -42,7 +42,7 @@ public class empleadoED_73102369C {
         return salarioFinal;
     }
 
-        // Este método no lo comentaremos con JavaDoc
+    
     public static void main(String[] args) {
         
         empleadoED_73102369C emp = new empleadoED_73102369C("JOSE RAMON VEGA","73102369C");
